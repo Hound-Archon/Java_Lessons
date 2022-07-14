@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1423207-e341-412b-b5be-9462500ef2b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Lessons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_2_Homework/Lesson_2_Homework.java" afterDir="false" />
-    </list>
+    <list default="true" id="c1423207-e341-412b-b5be-9462500ef2b4" name="Changes" comment="Решение задач базового уровня" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1657824875221</updated>
     </task>
+    <task id="LOCAL-00001" summary="Решение задач базового уровня">
+      <created>1657830635597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657830635597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Решение задач базового уровня" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение задач базового уровня" />
   </component>
 </project>
