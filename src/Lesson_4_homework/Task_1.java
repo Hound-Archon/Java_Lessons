@@ -55,12 +55,9 @@ public class Task_1 {
     Financial_record financial_record = new Financial_record(500, 300);
 
     String filename = "C:\\Java\\Java_Lessons\\src\\Lesson_4_homework\\report.txt";
-    String incomes_result = ("Доходы: " + financial_record.incomes + "\n");
-    String outcomes_result = ("Расходы: " + financial_record.outcomes + "\n");
-
+    String financial_record_result = ("Доходы: " + financial_record.incomes + ", " + "Расходы: " + financial_record.outcomes);
     FileWriter fileWriter = new FileWriter(filename);
-    fileWriter.write(incomes_result);
-    fileWriter.write(outcomes_result);
+    fileWriter.write(financial_record_result);
     fileWriter.flush();
     fileWriter.close();
     }

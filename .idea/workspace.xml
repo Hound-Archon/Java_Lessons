@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1423207-e341-412b-b5be-9462500ef2b4" name="Changes" comment="Домашняя работа от 3 лекции">
-      <change afterPath="$PROJECT_DIR$/src/Lesson_4_homework/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_4_homework/Financial_record.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_4_homework/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_4_homework/Toyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_4_homework/Zhiguli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_4_homework/my_first_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_4_homework/report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c1423207-e341-412b-b5be-9462500ef2b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Lesson_4_homework/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_4_homework/Task_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658600728747</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Домашняя работа от 4 лекции">
+      <created>1659290286483</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659290286483</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +217,8 @@
     <MESSAGE value="Решение задач базового уровня" />
     <MESSAGE value="Решение задач продвинутого уровня" />
     <MESSAGE value="Домашняя работа от 3 лекции" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа от 3 лекции" />
+    <MESSAGE value="Домашняя работа от 4 лекции" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа от 4 лекции" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
